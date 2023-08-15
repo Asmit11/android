@@ -52,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
             children: [
               Image.asset("assets/images/splash.gif"),
               SizedBox(height: 100,),
-              Text("Bazz", style: TextStyle(
+              Text("THE MUSIC STORE", style: TextStyle(
                 fontSize: 22
               ),)
             ],
