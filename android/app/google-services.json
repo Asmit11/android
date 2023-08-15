@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "954078368857",
+    "project_id": "themusicstore-5c9e1",
+    "storage_bucket": "themusicstore-5c9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954078368857:android:b09b1d224cd4d03d750d48",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954078368857-hkvq8h4v483kqg4qmtpv0c1vil8ijpa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5d6wHt9Pz0ZUIQsMPFrwPdJeqN1YqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954078368857-hkvq8h4v483kqg4qmtpv0c1vil8ijpa6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954078368857-dp1pjq7klk5hgk2cfe4rgls2vbhirhq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nBaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
